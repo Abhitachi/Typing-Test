@@ -1,5 +1,7 @@
-<a href="https://abhitachi.github.io/Typing-Test/"><h4>Typing Test Game ... !</h4></a>
- <img src="https://github.com/Abhitachi/Typing-Test/assets/91671934/45f9be05-1dc8-4052-955c-59608bab4235" width="80px" height="50px" />
+<div style = "display:flex ; align-items:center; justify-content:center">
+ <a href="https://abhitachi.github.io/Typing-Test/"><h1>Typing Test Game ... !</h1></a>
+ <img src="https://github.com/Abhitachi/Typing-Test/assets/91671934/45f9be05-1dc8-4052-955c-59608bab4235" width="120px" height="90px" />
+</div>
 
 
 <h2>The features of typing test game:</h2>
